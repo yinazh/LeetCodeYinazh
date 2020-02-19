@@ -1,0 +1,2 @@
+# LeetCodeYinazh
+yinazh learning LeetCode
